@@ -6,7 +6,7 @@ This project focuses on analyzing sales data to clean , filter and provide good 
 - Rename and clean column names.
 - Filter data based on specific conditions.
 - Perform basic data transformations.
-- Export cleaned data into a CSV file. 
+- Export cleaned data into a excel file. 
 
 🎯 Project Objectives
 
